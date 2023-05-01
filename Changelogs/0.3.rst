@@ -1,5 +1,5 @@
 ========================
-HellBot Version Update
+Godfather Version Update
 ========================
 
 +-------------------------+
@@ -22,4 +22,4 @@ Changelog :
 Now I'll try to give update more frequently. I was busy these past few days. 😕
 ===============================================================================
 
-📌 To update your Hêllẞø† do ``.update build``
+📌 To update your 𝔾𝕆𝔻𝔽𝔸𝕋ℍ𝔼ℝ do ``.update build``
